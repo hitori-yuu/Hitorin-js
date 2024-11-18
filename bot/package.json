@@ -17,7 +17,7 @@
     },
     "homepage": "https://github.com/hitori-yuu/Hitrin-js#readme",
     "dependencies": {
-        "@discordjs/voice": "^0.14.0",
+        "@discordjs/voice": "^0.18.0",
         "@iamtraction/google-translate": "^2.0.1",
         "axios": "^1.2.2",
         "chart.js": "^3.9.1",
