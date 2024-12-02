@@ -19,7 +19,7 @@
     "dependencies": {
         "@discordjs/voice": "^0.14.0",
         "@iamtraction/google-translate": "^2.0.1",
-        "axios": "^1.2.2",
+        "axios": "^1.7.8",
         "chart.js": "^3.9.1",
         "chartjs-node-canvas": "^4.1.6",
         "discord-player": "^5.3.1",
